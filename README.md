@@ -5,11 +5,11 @@ This is a simple counter application built using React and Redux. It demonstrate
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/kian-peedyaj/counter-react-redux.git
 
 
 2. Navigate to the project directory:
-cd counter-app
+cd counter-react-redux
 
 
 3. Install the dependencies:
@@ -19,7 +19,6 @@ npm install
 
 1. Start the development server:
 npm start
-
 
 2. Open your browser and visit `http://localhost:3000` to view the counter app.
 

@@ -1,5 +1,7 @@
 # React Redux Counter App
 
+![image](https://github.com/kian-peedyaj/counter-react-redux/assets/73398056/241aa54d-b17e-46ca-929b-d0b63f4a9295)
+
 This is a simple counter application built using React and Redux. It demonstrates the usage of Redux for state management in a React application.
 
 ## Installation
